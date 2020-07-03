@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showToast(View view){
-        Toast toast = Toast.makeText(this,"Soh Zhi Ying 19WMD03135",Toast.LENGTH_SHORT);
+        Toast toast = Toast.makeText(this,"Chee Jun Hui 19WMD03012",Toast.LENGTH_SHORT);
 
         toast.show();
     }
